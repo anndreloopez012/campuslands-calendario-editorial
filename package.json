@@ -1,0 +1,11 @@
+{
+  "name": "campuslands-calendario-editorial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Calendario editorial interactivo de Campuslands para LinkedIn, Instagram y TikTok",
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "test": "node scripts/build.cjs --check"
+  },
+  "engines": { "node": ">=22" }
+}
